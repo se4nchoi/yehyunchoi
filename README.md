@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @yehyunchoi
-- 👀 I’m interested in ...
-  - A bit of gaming 💻
-  - Football ⚽
-  - Collaborating on a project with team effort 💪  
-
+- 👀 I take on titles of...
+  - 🍳Occasional chef
+  - 🎒Part-time adventurer
+  - ⚽Avid football lover
+  - 🎮Professional causal gamer
 
 - 🌱 I’m currently learning ...
   - Basic foundations of Web Development, including Spring, Java, HTML, CSS, Bootstrap, DataBases (PSQL)
