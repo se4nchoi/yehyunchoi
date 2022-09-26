@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @yehyunchoi or Sean
 
-![Sean's Github Stats](https://github-readme-stats.vercel.app/api?username=yehyunchoi)
+![Sean's Github Stats](https://github-readme-stats.vercel.app/api?username=yehyunchoi&show_icons=true&theme=tokyonight)
 
 
 - 👀 I take on titles of...
