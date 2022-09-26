@@ -1,5 +1,8 @@
 - 👋 Hi, I’m @yehyunchoi or Sean
 
+![Sean's Github Stats](https://github-readme-stats.vercel.app/api?username=yehyunchoi)
+
+
 - 👀 I take on titles of...
   - 🧑‍💻 Aspiring Software Developer
   - 🍳Occasional chef
