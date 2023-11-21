@@ -17,4 +17,4 @@
   - 💡 Solving algorithm problems using Python🐍
   
 - 📫 How to reach me ...
-  - email: yehyun.choi94@gmail.com
+  - email: se4n.choi@gmail.com
